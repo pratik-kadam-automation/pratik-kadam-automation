@@ -12,6 +12,6 @@ programming PLC/servo motion systems, and building the cloud pipelines that read
 - 🔗 [industrial-edge-gateway](link) — edge gateway config + commissioning guide, in progress
 
 #### Learning / rebuilding
-- iot-ai-api, industrial-iot-data-logger, energy-optimization-roi — earlier explorations, being revisited
+- Industrial-Backend, industrial-iot-data-logger, energy-optimization-roi — earlier explorations, being revisited
 
 Open to Industrial IoT / OT-IT integration roles.
